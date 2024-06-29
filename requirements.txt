@@ -1,0 +1,17 @@
+Bevy2Flask @ git+https://github.com/islekcaganmert/bevy2flask.git@85a5f0e01ae0d8c7b21470084ab79afdb1e1a2d0
+BevyFrame @ git+https://github.com/islekcaganmert/bevyframe.git@ff6e9c1855894ec2eec1a47279d72f14b485a1f5
+blinker==1.8.2
+certifi==2024.6.2
+charset-normalizer==3.3.2
+click==8.1.7
+Flask==3.0.3
+idna==3.7
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+PyJWT==2.8.0
+python-dotenv==1.0.1
+requests==2.32.3
+TheProtocols==3.0.1
+urllib3==2.2.2
+Werkzeug==3.0.3
